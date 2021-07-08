@@ -1,2 +1,2 @@
 # apeperia-responsive
-Responsive mobile layout with flexbox 
+Responsive mobile layout 
