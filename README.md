@@ -1,2 +1,2 @@
-# alura-flexbox
+# apeperia-responsive
 Responsive mobile layout with flexbox 
